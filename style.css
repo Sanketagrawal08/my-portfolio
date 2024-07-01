@@ -53,7 +53,7 @@ html,body{
 .btn::before {
   background: var(--border-color);
   background-size: 300% 300%;
-  animation: move-bg7234 5s ease infinite;
+  animation: move-bg7234 8s ease infinite;
   z-index: -2;
 }
 
